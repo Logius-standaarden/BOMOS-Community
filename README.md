@@ -17,5 +17,5 @@ Aanmelden hiervoor kan via [Aanmelden BOMOS Event](https://www.geonovum.nl/over-
 ### Eerdere Bijeenkomsten
 |Datum | Tijd| Locatie | Onderwerpen |
 |-----------------| -------|----|-----|
-| 15 oktober 2024| 10:00-12:00 | Dag van de Interoperabiliteit <BR> Meetup Jaarbeurs Utrecht | - Leveranciers & Standaarden<BR> - Nieuwe versie BOMOS<BR> - Geonovum & BOMOS |
+| 15 oktober 2024| 10:00-12:00 | Dag van de Interoperabiliteit <BR> Meetup Jaarbeurs Utrecht | - Leveranciers & Standaarden<BR>  - Geonovum & BOMOS <BR> - Nieuwe versie BOMOS<BR> |
 
