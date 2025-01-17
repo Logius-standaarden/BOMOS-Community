@@ -1,6 +1,6 @@
 # BOMOS-Community
 
-We hebben een online gemeenschap rond BOMOS (Beheer en Ontwikkelmodel voor Open Standaarden) waarin iedereen mee mag doen. Het maakt niet uit of u bij de overheid werkt, voor een bedrijf of bijvoorbeeld het onderwijs. Deelname is vrijblijvend en makkelijk te regelen. U kunt meepraten over BOMOS, vragen stellen en suggesties doen. Dergelijke vragen en suggesties worden door Logius verzameld en voorgelegd aan de klankbordgroep;
+We hebben een online gemeenschap rond BOMOS (Beheer en OntwikkelModel voor Open Standaarden) waarin iedereen mee mag doen. Het maakt niet uit of u bij de overheid werkt, voor een bedrijf of bijvoorbeeld het onderwijs. Deelname is vrijblijvend en makkelijk te regelen. U kunt meepraten over BOMOS, vragen stellen en suggesties doen. Dergelijke vragen en suggesties worden door Logius verzameld en voorgelegd aan de klankbordgroep;
 (Zie ook [BOMOS Wie doet wat](https://www.logius.nl/domeinen/infrastructuur/bomos/wie-doet-wat) )
 
 Aanmelden voor de Community kan via mail _bomos(@)logius.nl_<BR>
