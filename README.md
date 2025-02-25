@@ -15,10 +15,13 @@ Op 5 maart 2025, organiseren Logius, Geonovum, Forum Standaardisatie en de HAN e
 Aanmelden hiervoor kan via [Aanmelden BOMOS Event](https://www.geonovum.nl/over-geonovum/agenda/community-meeting-beheer-en-ontwikkeling-standaarden)
 
 __Programma__
-- 10:00 – 10:20 Welkom & Update BOMOS - Désirée Castillo Gosker (Forum Standaardisatie) en Erwin Folmer (HAN University of Applied Sciences & Kadaster) 
-- 10:20 – 11:00 Het financieel model van de AQUO standaard – Stephany de Maaijer (Informatiehuis Water) 
-- 11:00 – 11:40 BOMOS & AI – Wouter van de Berg (TNO) 
-- 11:40 – 12:00 Rondvraag 
+| Tijd | Onderwerp | Spreker |
+|------|-----------|---------|
+| 10:00 – 10:20  | Welkom & Update BOMOS  | Désirée Castillo Gosker (Forum Standaardisatie) en <BR> Erwin Folmer (HAN University of Applied Sciences & Kadaster) |
+| 10:20 – 11:00  | Het financieel model van de AQUO standaard | Stephany de Maaijer (Informatiehuis Water) | 
+| 11:00 – 11:40 | BOMOS & AI | Wouter van de Berg (TNO) |
+| 11:40 – 12:00 | Rondvraag  | Allen |
+
 
 ### Eerdere Bijeenkomsten
 |Datum | Tijd| Locatie | Onderwerpen |
