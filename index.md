@@ -14,6 +14,13 @@ Voor de BOMOS Comunity worden regelmatig events georganiseerd om kennis te delen
 Op 5 maart 2025, organiseren Logius, Geonovum, Forum Standaardisatie en de HAN een BOMOS sessie voor iedereen die werkt aan of belangstelling heeft voor het ontwikkelen en beheren van open standaarden. De sessie vindt plaats van 10.00-12.00 uur in Beeld en Geluid in Hilversum.
 Aanmelden hiervoor kan via [Aanmelden BOMOS Event](https://www.geonovum.nl/over-geonovum/agenda/community-meeting-beheer-en-ontwikkeling-standaarden)
 
+__Programma__
+- 10:00 – 10:20 Welkom & Update BOMOS - Désirée Castillo Gosker (Forum Standaardisatie) en Erwin Folmer (HAN University of Applied Sciences & Kadaster) 
+- 10:20 – 11:00 Het financieel model van de AQUO standaard – Stephany de Maaijer (Informatiehuis Water) 
+- 11:00 – 11:40 BOMOS & AI – Wouter van de Berg (TNO) 
+- 11:40 – 12:00 Rondvraag 
+
+
 ### Eerdere Bijeenkomsten
 |Datum | Tijd| Locatie | Onderwerpen |
 |-----------------| -------|----|-----|
