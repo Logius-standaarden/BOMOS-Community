@@ -10,23 +10,13 @@ Vragen en onderwerpen kunnen ook in de github omgeving van de community worden i
 
 Voor de BOMOS Comunity worden regelmatig events georganiseerd om kennis te delen en het BOMOS model door te ontwikkelen.
 
-### 5 maart 2025 Beheerders Bijeenkomst Open Standaarden
-Op 5 maart 2025, organiseren Logius, Geonovum, Forum Standaardisatie en de HAN een BOMOS sessie voor iedereen die werkt aan of belangstelling heeft voor het ontwikkelen en beheren van open standaarden. De sessie vindt plaats van 10.00-12.00 uur in Beeld en Geluid in Hilversum.
-Aanmelden hiervoor kan via [Aanmelden BOMOS Event](https://www.geonovum.nl/over-geonovum/agenda/community-meeting-beheer-en-ontwikkeling-standaarden)
-
-__Programma__
-| Tijd | Onderwerp | Spreker |
-|------|-----------|---------|
-| 10:00 – 10:20  | Welkom & Update BOMOS  | Désirée Castillo Gosker (Forum Standaardisatie) en <BR> Erwin Folmer (HAN University of Applied Sciences & Kadaster) |
-| 10:20 – 11:00  | Het financieel model van de AQUO standaard | Stephany de Maaijer (Informatiehuis Water) | 
-| 11:00 – 11:40 | BOMOS & AI | Wouter van de Berg (TNO) |
-| 11:40 – 12:00 | Rondvraag  | Allen |
-
 
 ### Eerdere Bijeenkomsten
 |Datum | Tijd| Locatie | Onderwerpen |
 |-----------------| -------|----|-----|
+| 5 maart 2025| 10:00-12:00 | Instituut Beeld & Geluid - Hilversum | - Financieel model van de AQUO standaard (Informatiehuis Water) [presentatie](https://github.com/Logius-standaarden/BOMOS-Community/blob/main/20250305/Financiering%20van%20open%20standaarden%20casus%20Aquo.pdf) <BR>  - BOMOS & AI (TNO) <BR> [presentatie](https://github.com/Logius-standaarden/BOMOS-Community/blob/main/20250305/20250305%20BOMOS%20%26%20AI%20-%20mentimeter%20presentation.pdf)  <BR>  |
 | 15 oktober 2024| 10:00-12:00 | Dag van de Interoperabiliteit <BR> Meetup Jaarbeurs Utrecht | - Leveranciers & Standaarden<BR>  - Geonovum & BOMOS <BR> - Nieuwe versie BOMOS<BR> |
 
-![Organisaties](Bomos-logos.png)
 
+
+![Organisaties](Bomos-logos.png)
