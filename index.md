@@ -14,7 +14,7 @@ Voor de BOMOS Comunity worden regelmatig events georganiseerd om kennis te delen
 ### Eerdere Bijeenkomsten
 |Datum | Tijd| Locatie | Onderwerpen |
 |-----------------| -------|----|-----|
-| 5 maart 2025| 10:00-12:00 | Instituut Beeld & Geluid - Hilversum | - Financieel model AQUO standaard (Informatiehuis Water) [presentatie](https://github.com/Logius-standaarden/BOMOS-Community/blob/main/20250305/Financiering%20van%20open%20standaarden%20casus%20Aquo.pdf) <BR>  - BOMOS & AI (TNO) <BR> [presentatie](https://github.com/Logius-standaarden/BOMOS-Community/blob/main/20250305/20250305%20BOMOS%20%26%20AI%20-%20mentimeter%20presentation.pdf)  <BR>  |
+| 5 maart 2025| 10:00-12:00 | Instituut Beeld & Geluid - Hilversum | Bomos update / stand van zaken (HAN) [presentatie]()<BR>- Financieel model AQUO standaard (Informatiehuis Water) [presentatie](https://github.com/Logius-standaarden/BOMOS-Community/blob/main/20250305/Financiering%20van%20open%20standaarden%20casus%20Aquo.pdf) <BR>  - BOMOS & AI (TNO) <BR> [presentatie](https://github.com/Logius-standaarden/BOMOS-Community/blob/main/20250305/20250305%20BOMOS%20%26%20AI%20-%20mentimeter%20presentation.pdf)  <BR>  |
 | 15 oktober 2024| 10:00-12:00 | Dag van de Interoperabiliteit <BR> Meetup Jaarbeurs Utrecht | - Leveranciers & Standaarden<BR>  - Geonovum & BOMOS <BR> - Nieuwe versie BOMOS<BR> |
 
 
