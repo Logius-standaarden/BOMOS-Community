@@ -11,11 +11,15 @@ Vragen en onderwerpen kunnen ook in de github omgeving van de community worden i
 Voor de BOMOS Comunity worden regelmatig events georganiseerd om kennis te delen en het BOMOS model door te ontwikkelen.
 
 ### 14 oktober 2025 Beheerders Bijeenkomst Open Standaarden
-Op 14 oktober 2025, organiseren Logius, Geonovum, Forum Standaardisatie en de HAN een BOMOS sessie voor iedereen die werkt aan of belangstelling heeft voor het ontwikkelen en beheren van open standaarden. De sessie vindt plaats van 9:30-11.30 uur , locatie volgt nog.
+Op 14 oktober 2025, organiseren Logius, Geonovum, Forum Standaardisatie en de HAN een BOMOS sessie voor iedereen die werkt aan of belangstelling heeft voor het ontwikkelen en beheren van open standaarden. De sessie vindt plaats van 9:30-11.30 uur.
 Op basis van de voorkeuren voor onderwerpen die bij de vorige bijeenkomst zijn gegeven, willen we op de oktober bijeenkomst weer aandacht geven aan de financiën van standaarden ontwikkeling en beheer. Ook kijken we graag naar het onderwerp hoe we meer inzicht krijgen in het toepassen en gebruik van standaarden. We zien je graag terug op 14 oktober!
 
 Aanmelden hiervoor kan via [Aanmelden BOMOS Event](https://fd10.formdesk.com/geonovum/bomos-meetup)
 
+__Locatie__ <BR>
+Antropia - Cultuur- en Congrescentrum, Landgoed de Reehorst
+Hoofdstraat 8
+3972 LA Driebergen
 
 __Programma__
 | Tijd | Onderwerp | Spreker |
