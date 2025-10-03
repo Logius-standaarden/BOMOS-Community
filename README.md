@@ -22,7 +22,7 @@ __Programma__
 |------|-----------|---------|
 | 09:00 – 09:30  | Inloop |  - |
 | 09:30 – 09:50  | Welkom & Voorstelronde  |  Erwin Folmer (HAN University of Applied Sciences & Kadaster) |
-| 09:50 – 10:40  | Financiering van Standaarden | Henk Huting (Bouwstandaarden), Ludwig Oberendorff (Bureau Forum Standaardisatie) | 
+| 09:50 – 10:40  | Financiering van Standaarden | Henk Huting (Bouwstandaarden), <BR> Ludwig Oberendorff (Bureau Forum Standaardisatie) | 
 | 10:40 – 11:20 | Gebruik van Standaarden | Hans Overbeek (Logius-KOOP) |
 | 11:20 – 11:30 | Afronding  | Allen |
 
