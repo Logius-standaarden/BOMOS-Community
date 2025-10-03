@@ -30,7 +30,7 @@ __Programma__
 | 10:40 – 11:20 | Gebruik van Standaarden | Hans Overbeek (Logius-KOOP) |
 | 11:20 – 11:30 | Afronding  | Allen |
 
-14 oktober 2025 is ook Wereld Standaardendag, Forum Standaardisatie organiseert in de middag voor de tweede keer de Dag van de Interoperabiliteit (hiervoor dient apart te worden aangemeld). 
+14 oktober 2025 is ook Wereld Standaardendag, Forum Standaardisatie organiseert in de middag voor de tweede keer de Dag van de Interoperabiliteit (hiervoor dient apart te worden aangemeld via deze [Link](https://www.forumstandaardisatie.nl/seminar-dag-van-de-interoperabiliteit-2025) ). 
 
 ### Eerdere Bijeenkomsten
 |Datum | Tijd| Locatie | Onderwerpen |
