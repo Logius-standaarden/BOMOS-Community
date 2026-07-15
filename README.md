@@ -10,31 +10,26 @@ Vragen en onderwerpen kunnen ook in de github omgeving van de community worden i
 
 Voor de BOMOS Comunity worden regelmatig events georganiseerd om kennis te delen en het BOMOS model door te ontwikkelen.
 
-### 14 oktober 2025 Beheerders Bijeenkomst Open Standaarden
-Op 14 oktober 2025, organiseren Logius, Geonovum, Forum Standaardisatie en de HAN een BOMOS sessie voor iedereen die werkt aan of belangstelling heeft voor het ontwikkelen en beheren van open standaarden. De sessie vindt plaats van 9:30-11.30 uur.
-Op basis van de voorkeuren voor onderwerpen die bij de vorige bijeenkomst zijn gegeven, willen we op de oktober bijeenkomst weer aandacht geven aan de financiën van standaarden ontwikkeling en beheer. Ook kijken we graag naar het onderwerp hoe we meer inzicht krijgen in het toepassen en gebruik van standaarden. We zien je graag terug op 14 oktober!
+### 21 september 2026 Beheerders Bijeenkomst Open Standaarden 
 
-Aanmelden hiervoor kan via [Aanmelden BOMOS Event](https://fd10.formdesk.com/geonovum/bomos-meetup)
+Op 21 september organiseren HAN, Logius, Forum Standaardisatie en Geonovum weer een BOMOS meetup. Deze keer in Hilversum. We nodigen je daar van harte voor uit. 
+In deze ontbijtsessie van 9.00 tot 10.00 uur nemen Erwin Folmer (HAN, Kadaster) en Wouter van den Berg (TNO) je graag mee in:
 
-__Locatie__ <BR>
-Antropia - Cultuur- en Congrescentrum, Landgoed de Reehorst
-Hoofdstraat 8
-3972 LA Driebergen
+__BOMOS, standaarden en de rol van AI__
 
-__Programma__
-| Tijd | Onderwerp | Spreker |
-|------|-----------|---------|
-| 09:00 – 09:30  | Inloop |  - |
-| 09:30 – 09:50  | Welkom & Voorstelronde  |  Erwin Folmer (HAN University of Applied Sciences & Kadaster) |
-| 09:50 – 10:40  | Financiering van Standaarden | Henk Huting (Bouwstandaarden),<BR> Ludwig Oberendorff (Bureau Forum Standaardisatie) | 
-| 10:40 – 11:20 | Gebruik van Standaarden | Hans Overbeek (Logius-KOOP) |
-| 11:20 – 11:30 | Afronding  | Allen |
+Hoe blijven standaarden relevant in een wereld waarin AI steeds sneller terrein wint? 
+Erwin en Wouter duiken deze sessie in de kansen en vragen die AI oproept voor het ontwikkelen en beheren van standaarden. Vanuit BOMOS verkennen we samen hoe standaarden richting geven aan betrouwbare AI — en hoe AI op zijn beurt kan helpen om standaarden slimmer, toegankelijker en toekomstbestendiger te maken. Met praktijkvoorbeelden en ruimte voor gesprek maak je met deze sessie een inspirerende start van de dag.
 
-14 oktober 2025 is ook Wereld Standaardendag, Forum Standaardisatie organiseert in de middag voor de tweede keer de Dag van de Interoperabiliteit (hiervoor dient apart te worden aangemeld via deze [Link](https://www.forumstandaardisatie.nl/seminar-dag-van-de-interoperabiliteit-2025) ). 
+De ontbijtsessie vindt plaats op dezelfde locatie als waar Forum Standaardisatie haar 20 jarig jubileum viert. Je kunt dus èn deze ontbijtsessie bezoeken èn aansluitend ook nog naar het Forum Standaardisatiecongres. Meld je daarvoor wel even apart aan. 
+
+[Aanmelden voor de ontbijtsessie](https://fd10.formdesk.com/geonovum/bomos-meetup)
+
+
 
 ### Eerdere Bijeenkomsten
 |Datum | Tijd| Locatie | Onderwerpen |
 |-----------------| -------|----|-----|
+| 14 oktober 2025 | 09:00-12:00 | Dag van de Interoperabiliteit <BR> Driebergen | - Financiering en Gebruik van Standaarden  |
 | 5 maart 2025| 10:00-12:00 | Instituut Beeld & Geluid - Hilversum |- BOMOS update / stand van zaken (HAN) [presentatie](https://github.com/Logius-standaarden/BOMOS-Community/blob/main/20250305/202503_HAN_BOMOS-web.pdf)<BR>- Financieel model AQUO standaard (Informatiehuis Water) [presentatie](https://github.com/Logius-standaarden/BOMOS-Community/blob/main/20250305/Financiering%20van%20open%20standaarden%20casus%20Aquo.pdf) <BR>  - BOMOS & AI (TNO) <BR> [presentatie](https://github.com/Logius-standaarden/BOMOS-Community/blob/main/20250305/20250305%20BOMOS%20%26%20AI%20-%20mentimeter%20presentation.pdf)  <BR>  |
 | 15 oktober 2024| 10:00-12:00 | Dag van de Interoperabiliteit <BR> Meetup Jaarbeurs Utrecht | - Leveranciers & Standaarden<BR>  - Geonovum & BOMOS <BR> - Nieuwe versie BOMOS<BR> |
 
