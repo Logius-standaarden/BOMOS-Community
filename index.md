@@ -20,9 +20,9 @@ __BOMOS, standaarden en de rol van AI__
 Hoe blijven standaarden relevant in een wereld waarin AI steeds sneller terrein wint? 
 Erwin en Wouter duiken deze sessie in de kansen en vragen die AI oproept voor het ontwikkelen en beheren van standaarden. Vanuit BOMOS verkennen we samen hoe standaarden richting geven aan betrouwbare AI — en hoe AI op zijn beurt kan helpen om standaarden slimmer, toegankelijker en toekomstbestendiger te maken. Met praktijkvoorbeelden en ruimte voor gesprek maak je met deze sessie een inspirerende start van de dag.
 
-De ontbijtsessie vindt plaats op dezelfde locatie als waar Forum Standaardisatie haar 20 jarig jubileum viert. Je kunt dus èn deze ontbijtsessie bezoeken èn aansluitend ook nog naar het Forum Standaardisatiecongres. Meld je daarvoor wel even apart aan. 
+De ontbijtsessie vindt plaats op dezelfde locatie als waar Forum Standaardisatie haar 20 jarig jubileum viert. Je kunt dus èn deze ontbijtsessie bezoeken èn aansluitend ook nog naar het [Forum Standaardisatie congres](https://www.forumstandaardisatie.nl/congres-forum-standaardisatie-20-jaar). Meld je daarvoor wel even apart aan (via [Link](https://www.forumstandaardisatie.nl/congres-forum-standaardisatie-20-jaar) ). 
 
-[Aanmelden voor de ontbijtsessie](https://fd10.formdesk.com/geonovum/bomos-meetup)
+[Aanmelden voor de Beheerders bijeenkomst ontbijtsessie](https://fd10.formdesk.com/geonovum/bomos-meetup)
 
 
 
